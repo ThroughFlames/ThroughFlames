@@ -3,11 +3,11 @@
 ###
 
 <h6 align="left">“Then the Lord rained upon Sodom and upon Gomorrah brimstone and fire from the Lord out of heaven.” — Genesis 19:24</h6>
-<h3 align="left">-I have a fullstack degree.</h3>
-<h3 align="left">-Currently doing a baccalaureate in computer science.</h3>
+<h3 align="left">:computer:-I have a fullstack degree.</h3>
+<h3 align="left">:fire:-Currently doing a baccalaureate in computer science.</h3>
 
 ###
-
+<p align="center"> :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire: :fire:</p>
 <div align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/ThroughFlames.png" alt="TryHackMe Badge" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThroughFlames&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph" /> <br>
