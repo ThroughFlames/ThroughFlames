@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3248296" style='border:none;'></iframe>
+  [![TryHackMe Badge](https://tryhackme.com/badge/3248296)](https://tryhackme.com/p/ThroughFlames)
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ThroughFlames&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vision-friendly-dark&hide_border=false" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=ThroughFlames&locale=en&mode=weekly&theme=vision-friendly-dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api?username=ThroughFlames&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vision-friendly-dark&locale=en&hide_border=false&custom_title=ThroughFlames%20Stats" height="150" alt="stats graph"  />
